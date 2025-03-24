@@ -159,5 +159,14 @@ style="width:5.19444in;height:4.08143in" />
 To check if Apache has been truly installed on server2, use the
 following command: **sudo systemctl status apache2**
 
-<img src="./media/image12.jpeg" style="width:5.83187in;height:4.58228in"
+<img src="./media/image12.jpeg" style="width:5.00926in;height:3.93593in"
 alt="A screenshot of a computer AI-generated content may be incorrect." />
+
+Using the following command, df -k, obtain the available and free disk
+space.
+
+<img src="./media/image13.jpeg"
+style="width:5.2963in;height:4.12508in" />
+
+<img src="./media/image14.jpeg"
+style="width:6.26806in;height:5.08264in" />
